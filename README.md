@@ -1,6 +1,6 @@
 * **Files**
 
-* Take a look at the app by clicking <a href="https://heroku-node-2788.herokuapp.com/index">here</a>
+* Take a look at the app by clicking <a href="https://enigmatic-taiga-59348.herokuapp.com/">here</a>
 
  * `Friend Finder`
 
